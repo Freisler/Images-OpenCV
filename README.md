@@ -1,4 +1,3 @@
-# ZMD
 Zpracování multimediálních dat
 
 Úprava obrázků s využitím knihovny OpenCV
