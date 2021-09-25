@@ -1,5 +1,3 @@
-Working with images and OpenCV
-
 ZMD1 - RGB -> YUV transformation
 
 
