@@ -1,0 +1,2 @@
+C:\Users\freis\source\repos\ZMD1\x64\Debug\ZMD1.exe
+C:\Users\freis\source\repos\ZMD1\x64\Debug\ZMD1.pdb
